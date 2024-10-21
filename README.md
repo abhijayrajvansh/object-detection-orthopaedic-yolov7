@@ -2,7 +2,7 @@
 
 Author: [Abhijay Rajvansh](http://github.com/abhijayrajvansh), [LinkedIn](https://www.linkedin.com/in/abhijayrajvansh).
 
-Research conducted for Dr. Vineet Batta, Department of Orthopaedic, Luton and Dunstable University Hospital, UK.
+Research conducted for [Dr. Vineet Batta](https://scholar.google.co.in/citations?user=RQPKzTkAAAAJ&hl=en), Department of Orthopaedic, [L&D University Hospital](https://www.nhs.uk/), UK.
 
 Implementation of paper - [YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors](https://arxiv.org/abs/2207.02696)
 
